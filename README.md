@@ -1,5 +1,5 @@
 # Gitlab learn
-###### tags: `技術` `DevOps` `技術文章`
+###### tags: `DevOps`
 
 Learning note about GitLab CI/CD.
 
